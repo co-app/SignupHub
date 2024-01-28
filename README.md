@@ -2,6 +2,6 @@
 
 ## Signup Platform
 
-- [ ] Kakao
 - [ ] Naver
-- [ ] Google
+- [ ] Kakao - todo
+- [ ] Google - todo
