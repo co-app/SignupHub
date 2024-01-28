@@ -1,7 +1,9 @@
 # SignUpHub
 
-## Signup Platform
+## Required 
 
-- [ ] Naver
-- [ ] Kakao - todo
-- [ ] Google - todo
+```sh
+
+```
+
+## Signup Platform
